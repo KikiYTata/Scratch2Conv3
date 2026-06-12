@@ -1,0 +1,14 @@
+{
+  "name": "sb2-to-sb3",
+  "version": "1.0.0",
+  "description": "Convert Scratch SB2 project files to SB3 format.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jszip": "^3.10.0"
+  }
+}
